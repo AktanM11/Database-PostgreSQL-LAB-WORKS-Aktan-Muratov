@@ -1,9 +1,6 @@
 # Database PostgreSQL LAB WORKS Aktan-Muratov
-
-Я, Муратов Актан Муратович, согласен на все дедлайны, и в случае если пропущу дедлайны, то я сам за себя несу ответсвенность и сдам лабораторную согласно дедлайнам
-
-I, Aktan Muratovich Muratov, agree to all deadlines, and if I miss any, I accept full personal responsibility and will submit the laboratory assignment in accordance with the deadlines.
-
+## Repository Contents
+This repository contains my lab files and screenshots documenting my work for this course
 | Labs   | Topic |
 | ------ | ------------------------------------- |
 | Lab 2  | Installing PostgreSQL and pgAdmin |
@@ -22,6 +19,10 @@ I, Aktan Muratovich Muratov, agree to all deadlines, and if I miss any, I accept
 | Lab 15 | Advanced Querying |
 | Lab 16 | Transactions and ACID properties |
 | Lab 17 |  Data Import_Export and Backup |
+
+Я, Муратов Актан Муратович, согласен на все дедлайны, и в случае если пропущу дедлайны, то я сам за себя несу ответсвенность и сдам лабораторную согласно дедлайнам
+
+I, Aktan Muratovich Muratov, agree to all deadlines, and if I miss any, I accept full personal responsibility and will submit the laboratory assignment in accordance with the deadlines.
 
 ![Alt text](Ученический%20договор/photo_2026-09-24_09-34-27.jpg)
 
